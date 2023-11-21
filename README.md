@@ -1,5 +1,5 @@
-# STMAT
-This is the pytorch implementation of STMAT. I hope these codes are helpful to you!
+# STAMT
+This is the pytorch implementation of STAMT. I hope these codes are helpful to you!
 
 ## Requirements
 The code is built based on Python 3.9.12, PyTorch 1.11.0, and NumPy 1.21.2.
