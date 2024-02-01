@@ -7,7 +7,7 @@ The code is built based on Python 3.9.12, PyTorch 1.11.0, and NumPy 1.21.2.
 ## Datasets
 The relevant datasets are made publicly available and can be found in one of our [recent research efforts](https://github.com/LiuAoyu1998/STIDGCN) accepted by the IEEE Transactions on Intelligent Transportation Systems.
 
-We provide preprocessed datasets that you can access [here](https://drive.google.com/drive/folders/1-5hKD4hKd0eRdagm4MBW1g5kjH5qgmHR?usp=sharing). If you need the original datasets, please refer to [STSGCN](https://github.com/Davidham3/STSGCN) (including PEMS03, PEMS04, PEMS07, and PEMS08) and [ESG](https://github.com/LiuZH-19/ESG) (including NYCBike and NYCTaxi). Please obtain the large dataset (GBA, GLA and CA) from [LargeST](https://github.com/liuxu77/LargeST), and we appreciate their contribution.
+We also provide preprocessed datasets that you can access [here](https://drive.google.com/drive/folders/1-5hKD4hKd0eRdagm4MBW1g5kjH5qgmHR?usp=sharing). If you need the original datasets, please refer to [STSGCN](https://github.com/Davidham3/STSGCN) (including PEMS03, PEMS04, PEMS07, and PEMS08) and [ESG](https://github.com/LiuZH-19/ESG) (including NYCBike and NYCTaxi). Please obtain the large dataset (GBA, GLA and CA) from [LargeST](https://github.com/liuxu77/LargeST), and we appreciate their contribution.
 
 ## Train Commands
 It's easy to run! Here are some examples, and you can customize the model settings in train.py.
