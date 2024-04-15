@@ -6,6 +6,7 @@ This is the pytorch implementation of STAMT. I hope these codes are helpful to y
 <p align="center">
   <img src="figs/stamt_model.png" width="100%">
 </p>
+
 ## Requirements
 The code is built based on Python 3.9.12, PyTorch 1.11.0, and NumPy 1.21.2.
 
