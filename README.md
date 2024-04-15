@@ -4,7 +4,7 @@ This is the pytorch implementation of STAMT. I hope these codes are helpful to y
 [STIDGCN is accepted by ESWA (Expert Systems with Applications).](https://doi.org/10.1016/j.eswa.2024.123884)
 
 <p align="center">
-  <img src="stamt_model.png" width="100%">
+  <img src="figs/stamt_model.png" width="100%">
 </p>
 
 ## Requirements
@@ -25,3 +25,10 @@ nohup python -u train.py --data PEMS08 > PEMS08.log &
 ```
 nohup python -u train.py --data bike_drop > bike_drop.log &
 ```
+## Results
+<p align="center">
+<img src="figs/stamt_result1.png" width="100%">
+</p>
+<p align="center">
+<img src="figs/stamt_result2.png" width="100%">
+</p>
