@@ -32,3 +32,6 @@ nohup python -u train.py --data bike_drop > bike_drop.log &
 <p align="center">
 <img src="figs/stamt_result2.png" width="100%">
 </p>
+<p align="center">
+<img src="figs/stamt_result2.png" width="50%">
+</p>
